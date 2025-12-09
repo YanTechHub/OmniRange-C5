@@ -1,0 +1,35 @@
+*************************** START ****************************
+Chip: ESP32C5
+Download mode: uart
+Start time: 20251201-20:04
+Connect baud: 115200
+Com:COM221
+connecting...
+manufacturer_id: 0x20
+device_id: 0x4017
+fs:0x200200
+address/file: 8192 C:\Users\XinYu404\Documents\code\ESP32固件\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+address/file: 32768 C:\Users\XinYu404\Documents\code\ESP32固件\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partitions.bin
+address/file: 65536 C:\Users\XinYu404\Documents\code\ESP32固件\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\esp32_marauder_v1_8_10_20251113_esp32c5devkitc1.bin
+Wrote 20640 bytes (12963 compressed) at 0x00002000 in 0.1 seconds (effective 1271.9 kbit/s)...
+Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 2127.8 kbit/s)...
+Wrote 1437840 bytes (849311 compressed) at 0x00010000 in 6.0 seconds (effective 1914.1 kbit/s)...
+File: C:\Users\XinYu404\Documents\code\ESP32固件\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+File  md5: 7221bef671b954f227297c9790a9cd41
+Flash md5: 7221bef671b954f227297c9790a9cd41
+Hash of data verified.
+File: C:\Users\XinYu404\Documents\code\ESP32固件\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partitions.bin
+File  md5: 2ddc2d5f85b2c5288013adbe45d9cb7b
+Flash md5: 2ddc2d5f85b2c5288013adbe45d9cb7b
+Hash of data verified.
+File: C:\Users\XinYu404\Documents\code\ESP32固件\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\esp32_marauder_v1_8_10_20251113_esp32c5devkitc1.bin
+File  md5: 93fdb5d322b4fc2a18e6f141309885b9
+Flash md5: 93fdb5d322b4fc2a18e6f141309885b9
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 10 s
+Download result: PASS
+*************************** END ****************************
+
