@@ -1,0 +1,35 @@
+*************************** START ****************************
+Chip: ESP32C5
+Download mode: uart
+Start time: 20260326-17:37
+Connect baud: 115200
+Com:COM154
+connecting...
+manufacturer_id: 0x20
+device_id: 0x4017
+fs:0x200200
+address/file: 8192 C:\Users\yanjinbin\Desktop\OmniRange-C5\Firmware Update\Flashing Tool\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+address/file: 32768 C:\Users\yanjinbin\Desktop\OmniRange-C5\Firmware Update\Flashing Tool\dl_temp\bin_tmp\downloadPanel1\partitions.bin
+address/file: 65536 C:\Users\yanjinbin\Desktop\OmniRange-C5\Firmware Update\Flashing Tool\dl_temp\bin_tmp\downloadPanel1\esp32_marauder_v1_11_0_20260310_esp32c5devkitc1.bin
+Wrote 20640 bytes (12963 compressed) at 0x00002000 in 0.1 seconds (effective 1240.5 kbit/s)...
+Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 2233.7 kbit/s)...
+Wrote 1796384 bytes (1080509 compressed) at 0x00010000 in 7.3 seconds (effective 1959.9 kbit/s)...
+File: C:\Users\yanjinbin\Desktop\OmniRange-C5\Firmware Update\Flashing Tool\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+File  md5: 7221bef671b954f227297c9790a9cd41
+Flash md5: 7221bef671b954f227297c9790a9cd41
+Hash of data verified.
+File: C:\Users\yanjinbin\Desktop\OmniRange-C5\Firmware Update\Flashing Tool\dl_temp\bin_tmp\downloadPanel1\partitions.bin
+File  md5: 2ddc2d5f85b2c5288013adbe45d9cb7b
+Flash md5: 2ddc2d5f85b2c5288013adbe45d9cb7b
+Hash of data verified.
+File: C:\Users\yanjinbin\Desktop\OmniRange-C5\Firmware Update\Flashing Tool\dl_temp\bin_tmp\downloadPanel1\esp32_marauder_v1_11_0_20260310_esp32c5devkitc1.bin
+File  md5: f02fa4a61b2b4a3d31afc185fc3028e6
+Flash md5: f02fa4a61b2b4a3d31afc185fc3028e6
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 15 s
+Download result: PASS
+*************************** END ****************************
+
